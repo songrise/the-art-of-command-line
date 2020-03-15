@@ -3,20 +3,22 @@
 
 # 命令列的藝術
 
+
 [![Join the chat at https://gitter.im/jlevy/the-art-of-command-line](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jlevy/the-art-of-command-line?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-- [必讀](#必讀)
-- [基礎](#基礎)
-- [日常使用](#日常使用)
-- [檔案及資料處理](#檔案及資料處理)
-- [系統偵錯](#系統偵錯)
-- [單行指令碼](#單行指令碼)
-- [冷門但有用的指令](#冷門但有用的指令)
-- [僅限 OS X 系統](#僅限-os-x-系統)
-- [僅限 Windows 系統](#僅限-windows-系统)
-- [更多資源](#更多資源)
-- [免責聲明](#免責聲明)
-- [授權條款](#授權條款)
+- [命令列的藝術](#命令列的藝術)
+  - [必讀](#必讀)
+  - [基礎](#基礎)
+  - [日常使用](#日常使用)
+  - [檔案及資料處理](#檔案及資料處理)
+  - [系統偵錯](#系統偵錯)
+  - [單行指令碼](#單行指令碼)
+  - [冷門但有用的指令](#冷門但有用的指令)
+  - [僅限 OS X 系統](#僅限-os-x-系統)
+  - [僅限 Windows 系统](#僅限-windows-系统)
+  - [更多資源](#更多資源)
+  - [免責聲明](#免責聲明)
+  - [授權條款](#授權條款)
 
 
 ![curl -s 'https://raw.githubusercontent.com/jlevy/the-art-of-command-line/master/README.md' | egrep -o '`\w+`' | tr -d '`' | cowsay -W50](cowsay.png)
